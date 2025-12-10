@@ -1,0 +1,14 @@
+{
+  "name": "discord-oauth-autojoin",
+  "version": "1.0.0",
+  "description": "Discord OAuth2 auto join system using guilds.join",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "querystring": "^0.2.1"
+  }
+}

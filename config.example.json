@@ -1,0 +1,7 @@
+{
+  "client_id": "YOUR_CLIENT_ID",
+  "client_secret": "YOUR_CLIENT_SECRET",
+  "bot_token": "YOUR_BOT_TOKEN",
+  "redirect_uri": "https://yourdomain.com/callback",
+  "guild_id": "THE_SERVER_YOU_WANT_USERS_TO_JOIN"
+}
